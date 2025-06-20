@@ -1,0 +1,677 @@
+2025-06-20 19:49:42,419 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 19:49:42,646 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 19:49:42,647 - __main__ - INFO - Бот успешно запущен
+2025-06-20 19:49:42,647 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 19:49:43,034 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 19:49:59,906 - aiogram.event - INFO - Update id=846822419 is handled. Duration 421 ms by bot id=7856214995
+2025-06-20 19:50:02,840 - aiogram.event - INFO - Update id=846822420 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 19:50:05,954 - aiogram.event - INFO - Update id=846822421 is handled. Duration 1672 ms by bot id=7856214995
+2025-06-20 19:50:08,284 - aiogram.event - INFO - Update id=846822422 is handled. Duration 139 ms by bot id=7856214995
+2025-06-20 19:50:12,166 - aiogram.event - INFO - Update id=846822423 is handled. Duration 141 ms by bot id=7856214995
+2025-06-20 19:50:18,643 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 19:50:20,117 - aiogram.event - INFO - Update id=846822424 is handled. Duration 2625 ms by bot id=7856214995
+2025-06-20 19:50:38,971 - aiogram.event - INFO - Update id=846822425 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 19:51:07,272 - aiogram.event - INFO - Update id=846822426 is handled. Duration 203 ms by bot id=7856214995
+2025-06-20 19:51:09,395 - aiogram.event - INFO - Update id=846822427 is handled. Duration 500 ms by bot id=7856214995
+2025-06-20 19:51:41,060 - aiogram.event - INFO - Update id=846822428 is not handled. Duration 14 ms by bot id=7856214995
+2025-06-20 19:52:44,701 - aiogram.event - INFO - Update id=846822429 is handled. Duration 186 ms by bot id=7856214995
+2025-06-20 19:52:47,622 - aiogram.event - INFO - Update id=846822430 is handled. Duration 609 ms by bot id=7856214995
+2025-06-20 19:54:41,469 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 19:54:41,727 - __main__ - INFO - Завершение работы бота...
+2025-06-20 19:54:41,727 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 19:54:41,732 - __main__ - INFO - Бот остановлен
+2025-06-20 19:54:44,724 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 19:54:44,938 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 19:54:44,939 - __main__ - INFO - Бот успешно запущен
+2025-06-20 19:54:44,939 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 19:54:45,353 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 19:54:51,412 - aiogram.event - INFO - Update id=846822431 is handled. Duration 389 ms by bot id=7856214995
+2025-06-20 19:54:58,000 - aiogram.event - INFO - Update id=846822432 is handled. Duration 1656 ms by bot id=7856214995
+2025-06-20 19:55:02,653 - aiogram.event - INFO - Update id=846822433 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 19:55:08,087 - aiogram.event - INFO - Update id=846822434 is handled. Duration 1688 ms by bot id=7856214995
+2025-06-20 19:55:13,882 - aiogram.event - INFO - Update id=846822435 is handled. Duration 1000 ms by bot id=7856214995
+2025-06-20 19:55:16,220 - aiogram.event - INFO - Update id=846822436 is handled. Duration 265 ms by bot id=7856214995
+2025-06-20 19:55:18,015 - aiogram.event - INFO - Update id=846822437 is handled. Duration 172 ms by bot id=7856214995
+2025-06-20 19:55:58,311 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 19:55:58,487 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+2025-06-20 19:55:58,488 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7856214995)
+2025-06-20 19:55:58,566 - __main__ - INFO - Завершение работы бота...
+2025-06-20 19:55:58,567 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 19:55:58,569 - __main__ - INFO - Бот остановлен
+2025-06-20 19:56:01,436 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 19:56:01,662 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 19:56:01,663 - __main__ - INFO - Бот успешно запущен
+2025-06-20 19:56:01,663 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 19:56:02,043 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 19:56:09,035 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 19:56:09,288 - __main__ - INFO - Завершение работы бота...
+2025-06-20 19:56:09,290 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 19:56:09,295 - __main__ - INFO - Бот остановлен
+2025-06-20 19:56:58,000 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 19:56:58,232 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 19:56:58,233 - __main__ - INFO - Бот успешно запущен
+2025-06-20 19:56:58,233 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 19:56:58,558 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 19:58:35,458 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-06-20 19:58:35,459 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7856214995)
+2025-06-20 19:58:46,733 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7856214995)
+2025-06-20 20:00:40,420 - aiogram.event - INFO - Update id=846822438 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 20:00:44,112 - aiogram.event - INFO - Update id=846822439 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:00:55,276 - aiogram.event - INFO - Update id=846822440 is not handled. Duration 14 ms by bot id=7856214995
+2025-06-20 20:01:11,638 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:01:11,910 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:01:11,910 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:01:11,910 - __main__ - INFO - Бот остановлен
+2025-06-20 20:01:16,875 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:01:17,089 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:01:17,089 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:01:17,090 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:01:17,378 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:01:20,027 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:01:20,287 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:01:20,288 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:01:20,292 - __main__ - INFO - Бот остановлен
+2025-06-20 20:01:23,702 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:01:23,946 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:01:23,946 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:01:23,946 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:01:24,198 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:01:38,485 - aiogram.event - INFO - Update id=846822441 is handled. Duration 436 ms by bot id=7856214995
+2025-06-20 20:01:40,087 - aiogram.event - INFO - Update id=846822442 is not handled. Duration 15 ms by bot id=7856214995
+2025-06-20 20:01:44,209 - aiogram.event - INFO - Update id=846822443 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:01:57,916 - aiogram.event - INFO - Update id=846822444 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:15,451 - aiogram.event - INFO - Update id=846822445 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:16,567 - aiogram.event - INFO - Update id=846822446 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:16,721 - aiogram.event - INFO - Update id=846822447 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:16,922 - aiogram.event - INFO - Update id=846822448 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:17,066 - aiogram.event - INFO - Update id=846822449 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:17,245 - aiogram.event - INFO - Update id=846822450 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:17,373 - aiogram.event - INFO - Update id=846822451 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:17,511 - aiogram.event - INFO - Update id=846822452 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:30,381 - aiogram.event - INFO - Update id=846822453 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:02:36,335 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:02:36,586 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:02:36,586 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:02:36,602 - __main__ - INFO - Бот остановлен
+2025-06-20 20:02:39,945 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:02:40,157 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:02:40,158 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:02:40,158 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:02:40,438 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:02:42,482 - aiogram.event - INFO - Update id=846822454 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:02:56,330 - aiogram.event - INFO - Update id=846822455 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 20:02:57,234 - aiogram.event - INFO - Update id=846822456 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:03:35,551 - aiogram.event - INFO - Update id=846822457 is not handled. Duration 16 ms by bot id=7856214995
+2025-06-20 20:03:51,960 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:03:52,239 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:03:52,240 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:03:52,242 - __main__ - INFO - Бот остановлен
+2025-06-20 20:07:59,865 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:08:00,146 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:08:00,147 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:08:00,147 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:08:00,418 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:08:00,493 - aiogram.event - INFO - Update id=846822458 is not handled. Duration 15 ms by bot id=7856214995
+2025-06-20 20:08:00,494 - aiogram.event - INFO - Update id=846822459 is not handled. Duration 15 ms by bot id=7856214995
+2025-06-20 20:08:08,857 - aiogram.event - INFO - Update id=846822460 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:08:11,987 - aiogram.event - INFO - Update id=846822461 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:08:17,650 - aiogram.event - INFO - Update id=846822462 is not handled. Duration 14 ms by bot id=7856214995
+2025-06-20 20:10:13,606 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:10:13,862 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:10:13,864 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:10:13,870 - __main__ - INFO - Бот остановлен
+2025-06-20 20:18:51,328 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:18:51,329 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:18:51,547 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:18:52,807 - aiogram.event - INFO - Update id=846822463 is handled. Duration 436 ms by bot id=7856214995
+2025-06-20 20:18:54,127 - aiogram.event - INFO - Update id=846822464 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:19:25,759 - aiogram.event - INFO - Update id=846822465 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 20:19:27,261 - aiogram.event - INFO - Update id=846822466 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:19:37,365 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:19:37,618 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:31:56,526 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:31:56,812 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:31:56,813 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:31:56,813 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:31:57,125 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:32:00,235 - aiogram.event - INFO - Update id=846822467 is handled. Duration 328 ms by bot id=7856214995
+2025-06-20 20:32:01,283 - aiogram.event - INFO - Update id=846822468 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 20:32:02,604 - aiogram.event - INFO - Update id=846822469 is handled. Duration 31 ms by bot id=7856214995
+2025-06-20 20:32:09,083 - aiogram.event - INFO - Update id=846822470 is handled. Duration 15 ms by bot id=7856214995
+2025-06-20 20:32:45,795 - aiogram.event - INFO - Update id=846822471 is handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:32:47,346 - aiogram.event - INFO - Update id=846822472 is handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:32:47,468 - aiogram.event - INFO - Update id=846822473 is handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:32:47,696 - aiogram.event - INFO - Update id=846822474 is handled. Duration 15 ms by bot id=7856214995
+2025-06-20 20:33:08,871 - aiogram.event - INFO - Update id=846822475 is handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:33:16,239 - aiogram.event - INFO - Update id=846822476 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 20:33:17,812 - aiogram.event - INFO - Update id=846822477 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:33:18,501 - aiogram.event - INFO - Update id=846822478 is handled. Duration 0 ms by bot id=7856214995
+2025-06-20 20:34:26,971 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:34:27,237 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:34:27,237 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:34:29,989 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:34:30,174 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:34:30,175 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:34:30,175 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:34:30,442 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:34:34,526 - aiogram.event - INFO - Update id=846822479 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 20:34:35,591 - aiogram.event - INFO - Update id=846822480 is handled. Duration 202 ms by bot id=7856214995
+2025-06-20 20:34:37,601 - aiogram.event - INFO - Update id=846822481 is handled. Duration 890 ms by bot id=7856214995
+2025-06-20 20:34:39,707 - aiogram.event - INFO - Update id=846822482 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:34:46,036 - aiogram.event - INFO - Update id=846822483 is handled. Duration 202 ms by bot id=7856214995
+2025-06-20 20:34:56,814 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:35:02,491 - aiogram.event - INFO - Update id=846822484 is handled. Duration 6156 ms by bot id=7856214995
+2025-06-20 20:36:13,740 - aiogram.event - INFO - Update id=846822485 is handled. Duration 203 ms by bot id=7856214995
+2025-06-20 20:36:15,807 - __main__ - ERROR - Ошибка получения записей: отношение "appointments" не существует
+2025-06-20 20:36:15,949 - aiogram.event - INFO - Update id=846822486 is handled. Duration 343 ms by bot id=7856214995
+2025-06-20 20:36:20,574 - aiogram.event - INFO - Update id=846822487 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:36:21,870 - aiogram.event - INFO - Update id=846822488 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:36:22,942 - __main__ - ERROR - Ошибка получения занятых слотов: отношение "appointments" не существует
+2025-06-20 20:36:23,033 - aiogram.event - INFO - Update id=846822489 is handled. Duration 280 ms by bot id=7856214995
+2025-06-20 20:36:24,382 - aiogram.event - INFO - Update id=846822490 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 20:36:29,767 - aiogram.event - INFO - Update id=846822491 is handled. Duration 156 ms by bot id=7856214995
+2025-06-20 20:36:43,440 - __main__ - ERROR - Ошибка сохранения пользователя: отношение "users" не существует
+2025-06-20 20:36:43,456 - __main__ - ERROR - Ошибка в process_phone_input: отношение "users" не существует
+2025-06-20 20:36:43,576 - aiogram.event - INFO - Update id=846822492 is handled. Duration 686 ms by bot id=7856214995
+2025-06-20 20:36:54,592 - aiogram.event - INFO - Update id=846822493 is handled. Duration 171 ms by bot id=7856214995
+2025-06-20 20:37:06,719 - __main__ - ERROR - Ошибка сохранения пользователя: отношение "users" не существует
+2025-06-20 20:37:06,735 - __main__ - ERROR - Ошибка в process_phone_input: отношение "users" не существует
+2025-06-20 20:37:06,845 - aiogram.event - INFO - Update id=846822494 is handled. Duration 1125 ms by bot id=7856214995
+2025-06-20 20:37:13,155 - __main__ - ERROR - Ошибка сохранения пользователя: отношение "users" не существует
+2025-06-20 20:37:13,157 - __main__ - ERROR - Ошибка в process_phone_input: отношение "users" не существует
+2025-06-20 20:37:13,271 - aiogram.event - INFO - Update id=846822495 is handled. Duration 593 ms by bot id=7856214995
+2025-06-20 20:37:34,841 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:37:35,103 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:37:35,104 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:37:58,247 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:37:58,472 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:37:58,472 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:37:58,472 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:37:58,722 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:38:00,961 - aiogram.event - INFO - Update id=846822496 is handled. Duration 265 ms by bot id=7856214995
+2025-06-20 20:38:01,999 - aiogram.event - INFO - Update id=846822497 is handled. Duration 172 ms by bot id=7856214995
+2025-06-20 20:38:03,689 - aiogram.event - INFO - Update id=846822498 is handled. Duration 656 ms by bot id=7856214995
+2025-06-20 20:38:04,873 - aiogram.event - INFO - Update id=846822499 is handled. Duration 94 ms by bot id=7856214995
+2025-06-20 20:38:09,207 - aiogram.event - INFO - Update id=846822500 is handled. Duration 186 ms by bot id=7856214995
+2025-06-20 20:38:16,816 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:38:17,871 - aiogram.event - INFO - Update id=846822501 is handled. Duration 1719 ms by bot id=7856214995
+2025-06-20 20:38:23,060 - aiogram.event - INFO - Update id=846822502 is handled. Duration 984 ms by bot id=7856214995
+2025-06-20 20:38:27,951 - aiogram.event - INFO - Update id=846822503 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:38:32,986 - aiogram.event - INFO - Update id=846822504 is handled. Duration 718 ms by bot id=7856214995
+2025-06-20 20:38:37,342 - aiogram.event - INFO - Update id=846822505 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:38:54,416 - aiogram.event - INFO - Update id=846822506 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 20:38:55,487 - aiogram.event - INFO - Update id=846822507 is handled. Duration 328 ms by bot id=7856214995
+2025-06-20 20:38:56,636 - aiogram.event - INFO - Update id=846822508 is handled. Duration 218 ms by bot id=7856214995
+2025-06-20 20:39:00,935 - aiogram.event - INFO - Update id=846822509 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 20:39:07,020 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:39:08,142 - aiogram.event - INFO - Update id=846822510 is handled. Duration 1625 ms by bot id=7856214995
+2025-06-20 20:39:20,681 - aiogram.event - INFO - Update id=846822511 is handled. Duration 609 ms by bot id=7856214995
+2025-06-20 20:39:25,619 - aiogram.event - INFO - Update id=846822512 is handled. Duration 188 ms by bot id=7856214995
+2025-06-20 20:39:29,301 - aiogram.event - INFO - Update id=846822513 is handled. Duration 625 ms by bot id=7856214995
+2025-06-20 20:40:07,569 - aiogram.event - INFO - Update id=846822514 is handled. Duration 264 ms by bot id=7856214995
+2025-06-20 20:40:20,436 - aiogram.event - INFO - Update id=846822515 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 20:40:39,239 - aiogram.event - INFO - Update id=846822516 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:41:10,285 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:41:10,530 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:41:10,531 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:41:13,531 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:41:13,699 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:41:13,699 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:41:13,699 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:41:13,940 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:41:26,336 - aiogram.event - INFO - Update id=846822517 is handled. Duration 297 ms by bot id=7856214995
+2025-06-20 20:41:27,331 - aiogram.event - INFO - Update id=846822518 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 20:41:29,286 - aiogram.event - INFO - Update id=846822519 is handled. Duration 343 ms by bot id=7856214995
+2025-06-20 20:41:34,286 - aiogram.event - INFO - Update id=846822520 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 20:41:38,627 - aiogram.event - INFO - Update id=846822521 is handled. Duration 94 ms by bot id=7856214995
+2025-06-20 20:41:43,646 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:41:45,017 - aiogram.event - INFO - Update id=846822522 is handled. Duration 1968 ms by bot id=7856214995
+2025-06-20 20:42:00,283 - aiogram.event - INFO - Update id=846822523 is handled. Duration 1000 ms by bot id=7856214995
+2025-06-20 20:42:08,050 - aiogram.event - INFO - Update id=846822524 is handled. Duration 610 ms by bot id=7856214995
+2025-06-20 20:42:17,897 - aiogram.event - INFO - Update id=846822525 is handled. Duration 860 ms by bot id=7856214995
+2025-06-20 20:42:31,770 - aiogram.event - INFO - Update id=846822526 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:42:33,675 - aiogram.event - INFO - Update id=846822527 is handled. Duration 563 ms by bot id=7856214995
+2025-06-20 20:42:39,777 - aiogram.event - INFO - Update id=846822528 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 20:42:43,039 - aiogram.event - INFO - Update id=846822529 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:42:49,839 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:42:50,887 - aiogram.event - INFO - Update id=846822530 is handled. Duration 1563 ms by bot id=7856214995
+2025-06-20 20:42:52,418 - aiogram.event - INFO - Update id=846822531 is handled. Duration 141 ms by bot id=7856214995
+2025-06-20 20:42:53,997 - aiogram.event - INFO - Update id=846822532 is handled. Duration 688 ms by bot id=7856214995
+2025-06-20 20:42:56,353 - aiogram.event - INFO - Update id=846822533 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:43:00,740 - aiogram.event - INFO - Update id=846822534 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 20:43:03,800 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:43:04,664 - aiogram.event - INFO - Update id=846822535 is handled. Duration 1594 ms by bot id=7856214995
+2025-06-20 20:43:15,135 - aiogram.event - INFO - Update id=846822536 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:43:16,722 - aiogram.event - INFO - Update id=846822537 is handled. Duration 734 ms by bot id=7856214995
+2025-06-20 20:43:18,159 - aiogram.event - INFO - Update id=846822538 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:43:20,592 - aiogram.event - INFO - Update id=846822539 is handled. Duration 171 ms by bot id=7856214995
+2025-06-20 20:43:23,808 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:43:24,737 - aiogram.event - INFO - Update id=846822540 is handled. Duration 1625 ms by bot id=7856214995
+2025-06-20 20:43:26,071 - aiogram.event - INFO - Update id=846822541 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:43:27,588 - aiogram.event - INFO - Update id=846822542 is handled. Duration 500 ms by bot id=7856214995
+2025-06-20 20:43:28,540 - aiogram.event - INFO - Update id=846822543 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:43:30,862 - aiogram.event - INFO - Update id=846822544 is handled. Duration 265 ms by bot id=7856214995
+2025-06-20 20:43:33,511 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:43:33,542 - __main__ - ERROR - Ошибка в process_phone_input: извините, уже слишком много клиентов
+2025-06-20 20:43:33,663 - aiogram.event - INFO - Update id=846822545 is handled. Duration 561 ms by bot id=7856214995
+2025-06-20 20:43:38,527 - __main__ - ERROR - Ошибка в process_phone_input: извините, уже слишком много клиентов
+2025-06-20 20:43:38,620 - aiogram.event - INFO - Update id=846822546 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 20:43:46,931 - __main__ - ERROR - Ошибка в process_phone_input: извините, уже слишком много клиентов
+2025-06-20 20:43:47,068 - aiogram.event - INFO - Update id=846822547 is handled. Duration 186 ms by bot id=7856214995
+2025-06-20 20:43:55,964 - aiogram.event - INFO - Update id=846822548 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:43:57,055 - aiogram.event - INFO - Update id=846822549 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:43:57,890 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 20:43:58,119 - aiogram.event - INFO - Update id=846822550 is handled. Duration 281 ms by bot id=7856214995
+2025-06-20 20:44:00,549 - aiogram.event - INFO - Update id=846822551 is handled. Duration 94 ms by bot id=7856214995
+2025-06-20 20:44:01,403 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 20:44:01,760 - aiogram.event - INFO - Update id=846822552 is handled. Duration 406 ms by bot id=7856214995
+2025-06-20 20:44:03,387 - aiogram.event - INFO - Update id=846822553 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 20:44:04,504 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 20:44:04,697 - aiogram.event - INFO - Update id=846822554 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 20:44:16,205 - aiogram.event - INFO - Update id=846822555 is handled. Duration 172 ms by bot id=7856214995
+2025-06-20 20:44:17,016 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 20:44:17,238 - aiogram.event - INFO - Update id=846822556 is handled. Duration 265 ms by bot id=7856214995
+2025-06-20 20:44:24,603 - aiogram.event - INFO - Update id=846822557 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 20:44:25,825 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 20:44:26,015 - aiogram.event - INFO - Update id=846822558 is handled. Duration 235 ms by bot id=7856214995
+2025-06-20 20:44:45,495 - __main__ - ERROR - Ошибка при получении записей: извините, уже слишком много клиентов
+2025-06-20 20:44:45,671 - aiogram.event - INFO - Update id=846822559 is handled. Duration 219 ms by bot id=7856214995
+2025-06-20 20:44:59,159 - aiogram.event - INFO - Update id=846822560 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:45:02,972 - aiogram.event - INFO - Update id=846822561 is handled. Duration 2109 ms by bot id=7856214995
+2025-06-20 20:45:13,636 - aiogram.event - INFO - Update id=846822562 is not handled. Duration 47 ms by bot id=7856214995
+2025-06-20 20:45:13,636 - aiogram.event - ERROR - Cause exception while process update id=846822562 by bot id=7856214995
+TooManyConnectionsError: извините, уже слишком много клиентов
+Traceback (most recent call last):
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\manage.py", line 577, in process_cancel_appointment
+    pool = await create_db_pool()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\manage.py", line 78, in create_db_pool
+    return await asyncpg.create_pool(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\asyncpg\pool.py", line 418, in _async__init__
+    await self._initialize()
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\asyncpg\pool.py", line 445, in _initialize
+    await first_ch.connect()
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\asyncpg\pool.py", line 132, in connect
+    self._con = await self._pool._get_new_connection()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\asyncpg\pool.py", line 517, in _get_new_connection
+    con = await self._connect(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\asyncpg\connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\asyncpg\connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\asyncpg\connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Женя\nails_bot_2\venv\Lib\site-packages\asyncpg\connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.TooManyConnectionsError: извините, уже слишком много клиентов
+2025-06-20 20:45:44,250 - aiogram.event - INFO - Update id=846822563 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:45:46,087 - __main__ - ERROR - Ошибка при получении записей: извините, уже слишком много клиентов
+2025-06-20 20:45:46,190 - aiogram.event - INFO - Update id=846822564 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:45:49,031 - aiogram.event - INFO - Update id=846822565 is handled. Duration 186 ms by bot id=7856214995
+2025-06-20 20:45:50,423 - __main__ - ERROR - Ошибка при получении записей: извините, уже слишком много клиентов
+2025-06-20 20:45:50,528 - aiogram.event - INFO - Update id=846822566 is handled. Duration 171 ms by bot id=7856214995
+2025-06-20 20:46:07,628 - aiogram.event - INFO - Update id=846822567 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 20:46:09,114 - __main__ - ERROR - Ошибка при получении записей: извините, уже слишком много клиентов
+2025-06-20 20:46:09,218 - aiogram.event - INFO - Update id=846822568 is handled. Duration 171 ms by bot id=7856214995
+2025-06-20 20:48:58,790 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 20:48:59,059 - __main__ - INFO - Завершение работы бота...
+2025-06-20 20:48:59,060 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:59:19,957 - __main__ - INFO - Подключение к PostgreSQL успешно. Версия: PostgreSQL 16.9, compiled by Visual C++ build 1943, 64-bit
+2025-06-20 20:59:20,180 - __main__ - INFO - База данных успешно инициализирована
+2025-06-20 20:59:20,181 - __main__ - INFO - Бот успешно запущен
+2025-06-20 20:59:20,181 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 20:59:20,446 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 20:59:25,206 - aiogram.event - INFO - Update id=846822569 is handled. Duration 311 ms by bot id=7856214995
+2025-06-20 20:59:26,450 - aiogram.event - INFO - Update id=846822570 is handled. Duration 484 ms by bot id=7856214995
+2025-06-20 20:59:28,181 - aiogram.event - INFO - Update id=846822571 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 20:59:31,216 - aiogram.event - INFO - Update id=846822572 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:59:36,959 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:59:37,949 - aiogram.event - INFO - Update id=846822573 is handled. Duration 1530 ms by bot id=7856214995
+2025-06-20 20:59:40,366 - aiogram.event - INFO - Update id=846822574 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 20:59:42,415 - aiogram.event - INFO - Update id=846822575 is handled. Duration 875 ms by bot id=7856214995
+2025-06-20 20:59:43,766 - aiogram.event - INFO - Update id=846822576 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 20:59:45,969 - aiogram.event - INFO - Update id=846822577 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:59:53,815 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 20:59:54,809 - aiogram.event - INFO - Update id=846822578 is handled. Duration 1531 ms by bot id=7856214995
+2025-06-20 20:59:55,815 - aiogram.event - INFO - Update id=846822579 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 20:59:57,319 - aiogram.event - INFO - Update id=846822580 is handled. Duration 639 ms by bot id=7856214995
+2025-06-20 20:59:58,503 - aiogram.event - INFO - Update id=846822581 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 21:00:01,185 - aiogram.event - INFO - Update id=846822582 is handled. Duration 139 ms by bot id=7856214995
+2025-06-20 21:00:03,732 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 21:00:04,656 - aiogram.event - INFO - Update id=846822583 is handled. Duration 1483 ms by bot id=7856214995
+2025-06-20 21:00:05,700 - aiogram.event - INFO - Update id=846822584 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:00:07,273 - aiogram.event - INFO - Update id=846822585 is handled. Duration 688 ms by bot id=7856214995
+2025-06-20 21:00:08,859 - aiogram.event - INFO - Update id=846822586 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:00:12,800 - aiogram.event - INFO - Update id=846822587 is handled. Duration 281 ms by bot id=7856214995
+2025-06-20 21:00:16,503 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 21:00:24,236 - aiogram.event - INFO - Update id=846822588 is handled. Duration 8281 ms by bot id=7856214995
+2025-06-20 21:00:28,223 - aiogram.event - INFO - Update id=846822589 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 21:00:29,820 - aiogram.event - INFO - Update id=846822590 is handled. Duration 734 ms by bot id=7856214995
+2025-06-20 21:00:31,244 - aiogram.event - INFO - Update id=846822591 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:00:34,554 - aiogram.event - INFO - Update id=846822592 is handled. Duration 94 ms by bot id=7856214995
+2025-06-20 21:00:37,397 - __main__ - INFO - Пользователь 1275545183 сохранен в БД
+2025-06-20 21:00:38,719 - aiogram.event - INFO - Update id=846822593 is handled. Duration 1827 ms by bot id=7856214995
+2025-06-20 21:00:39,803 - aiogram.event - INFO - Update id=846822594 is handled. Duration 141 ms by bot id=7856214995
+2025-06-20 21:00:41,697 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 21:00:41,936 - aiogram.event - INFO - Update id=846822595 is handled. Duration 750 ms by bot id=7856214995
+2025-06-20 21:00:45,235 - aiogram.event - INFO - Update id=846822596 is handled. Duration 203 ms by bot id=7856214995
+2025-06-20 21:00:45,998 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 21:00:46,384 - aiogram.event - INFO - Update id=846822597 is handled. Duration 438 ms by bot id=7856214995
+2025-06-20 21:00:49,723 - aiogram.event - INFO - Update id=846822598 is handled. Duration 188 ms by bot id=7856214995
+2025-06-20 21:00:50,860 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 21:00:51,086 - aiogram.event - INFO - Update id=846822599 is handled. Duration 281 ms by bot id=7856214995
+2025-06-20 21:00:52,869 - aiogram.event - INFO - Update id=846822600 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 21:00:54,288 - __main__ - ERROR - Ошибка в process_date_selection: извините, уже слишком много клиентов
+2025-06-20 21:00:54,484 - aiogram.event - INFO - Update id=846822601 is handled. Duration 234 ms by bot id=7856214995
+2025-06-20 21:04:49,933 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:04:50,198 - __main__ - INFO - Завершение работы бота...
+2025-06-20 21:04:50,198 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:05:20,820 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:05:20,820 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:05:20,820 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:05:32,326 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:05:32,435 - aiogram.event - INFO - Update id=846822602 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:05:40,209 - aiogram.event - INFO - Update id=846822603 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:06:41,039 - aiogram.event - INFO - Update id=846822604 is handled. Duration 297 ms by bot id=7856214995
+2025-06-20 21:06:43,089 - aiogram.event - INFO - Update id=846822605 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:07:42,805 - aiogram.event - INFO - Update id=846822606 is not handled. Duration 14 ms by bot id=7856214995
+2025-06-20 21:07:43,554 - aiogram.event - INFO - Update id=846822607 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:07:44,026 - aiogram.event - INFO - Update id=846822608 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:07:44,449 - aiogram.event - INFO - Update id=846822609 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:09:55,826 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:09:56,079 - __main__ - INFO - Бот остановлен
+2025-06-20 21:09:56,080 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:09:58,653 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:09:58,654 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:09:58,654 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:09:58,903 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:10:05,070 - aiogram.event - INFO - Update id=846822610 is handled. Duration 375 ms by bot id=7856214995
+2025-06-20 21:10:06,191 - aiogram.event - INFO - Update id=846822611 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:15:32,203 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:15:32,467 - __main__ - INFO - Бот остановлен
+2025-06-20 21:15:32,469 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:16:10,215 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:16:10,215 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:16:10,215 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:16:10,475 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:16:28,428 - aiogram.event - INFO - Update id=846822612 is handled. Duration 266 ms by bot id=7856214995
+2025-06-20 21:16:29,802 - aiogram.event - INFO - Update id=846822613 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:17:07,269 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:17:07,528 - __main__ - INFO - Бот остановлен
+2025-06-20 21:17:07,529 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:17:09,789 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:17:09,789 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:17:09,789 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:17:10,010 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:17:16,818 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:17:17,088 - __main__ - INFO - Бот остановлен
+2025-06-20 21:17:17,089 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:17:19,393 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:17:19,394 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:17:19,394 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:17:19,622 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:17:20,512 - aiogram.event - INFO - Update id=846822614 is not handled. Duration 15 ms by bot id=7856214995
+2025-06-20 21:17:21,326 - aiogram.event - INFO - Update id=846822615 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:17:22,160 - aiogram.event - INFO - Update id=846822616 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:17:22,618 - aiogram.event - INFO - Update id=846822617 is not handled. Duration 0 ms by bot id=7856214995
+2025-06-20 21:18:08,034 - aiogram.event - INFO - Update id=846822618 is handled. Duration 233 ms by bot id=7856214995
+2025-06-20 21:18:09,589 - aiogram.event - INFO - Update id=846822619 is not handled. Duration 15 ms by bot id=7856214995
+2025-06-20 21:22:42,671 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:22:42,933 - __main__ - INFO - Бот остановлен
+2025-06-20 21:22:42,934 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:22:45,432 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:22:45,432 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:22:45,433 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:22:45,768 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:22:49,511 - aiogram.event - INFO - Update id=846822620 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 21:22:50,875 - aiogram.event - INFO - Update id=846822621 is handled. Duration 219 ms by bot id=7856214995
+2025-06-20 21:22:52,120 - aiogram.event - INFO - Update id=846822622 is handled. Duration 156 ms by bot id=7856214995
+2025-06-20 21:22:53,643 - aiogram.event - INFO - Update id=846822623 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 21:22:59,460 - aiogram.event - INFO - Update id=846822624 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:23:04,959 - aiogram.event - INFO - Update id=846822625 is handled. Duration 468 ms by bot id=7856214995
+2025-06-20 21:23:09,702 - aiogram.event - INFO - Update id=846822626 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:23:10,650 - aiogram.event - INFO - Update id=846822627 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 21:23:11,640 - aiogram.event - INFO - Update id=846822628 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:23:13,888 - aiogram.event - INFO - Update id=846822629 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 21:23:15,577 - aiogram.event - INFO - Update id=846822630 is handled. Duration 343 ms by bot id=7856214995
+2025-06-20 21:23:17,499 - aiogram.event - INFO - Update id=846822631 is handled. Duration 94 ms by bot id=7856214995
+2025-06-20 21:23:18,469 - aiogram.event - INFO - Update id=846822632 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:23:19,620 - aiogram.event - INFO - Update id=846822633 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:23:22,690 - aiogram.event - INFO - Update id=846822634 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:23:25,288 - aiogram.event - INFO - Update id=846822635 is handled. Duration 389 ms by bot id=7856214995
+2025-06-20 21:23:26,465 - aiogram.event - INFO - Update id=846822636 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:23:27,830 - aiogram.event - INFO - Update id=846822637 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:23:28,984 - aiogram.event - INFO - Update id=846822638 is handled. Duration 172 ms by bot id=7856214995
+2025-06-20 21:23:32,638 - aiogram.event - INFO - Update id=846822639 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:23:34,784 - aiogram.event - INFO - Update id=846822640 is handled. Duration 358 ms by bot id=7856214995
+2025-06-20 21:23:35,831 - aiogram.event - INFO - Update id=846822641 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:23:37,014 - aiogram.event - INFO - Update id=846822642 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 21:23:38,033 - aiogram.event - INFO - Update id=846822643 is handled. Duration 155 ms by bot id=7856214995
+2025-06-20 21:23:40,919 - aiogram.event - INFO - Update id=846822644 is handled. Duration 172 ms by bot id=7856214995
+2025-06-20 21:23:43,140 - aiogram.event - INFO - Update id=846822645 is handled. Duration 328 ms by bot id=7856214995
+2025-06-20 21:23:44,474 - aiogram.event - INFO - Update id=846822646 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 21:23:45,398 - aiogram.event - INFO - Update id=846822647 is handled. Duration 78 ms by bot id=7856214995
+2025-06-20 21:24:07,986 - aiogram.event - INFO - Update id=846822648 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:24:09,224 - aiogram.event - INFO - Update id=846822649 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:24:10,069 - aiogram.event - INFO - Update id=846822650 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:24:10,988 - aiogram.event - INFO - Update id=846822651 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:24:16,300 - aiogram.event - INFO - Update id=846822652 is handled. Duration 172 ms by bot id=7856214995
+2025-06-20 21:24:18,919 - aiogram.event - INFO - Update id=846822653 is handled. Duration 500 ms by bot id=7856214995
+2025-06-20 21:24:21,031 - aiogram.event - INFO - Update id=846822654 is handled. Duration 171 ms by bot id=7856214995
+2025-06-20 21:24:22,068 - aiogram.event - INFO - Update id=846822655 is handled. Duration 139 ms by bot id=7856214995
+2025-06-20 21:25:44,986 - aiogram.event - INFO - Update id=846822656 is handled. Duration 2015 ms by bot id=7856214995
+2025-06-20 21:25:51,432 - aiogram.event - INFO - Update id=846822657 is handled. Duration 375 ms by bot id=7856214995
+2025-06-20 21:26:02,297 - aiogram.event - INFO - Update id=846822658 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 21:26:05,310 - aiogram.event - INFO - Update id=846822659 is handled. Duration 734 ms by bot id=7856214995
+2025-06-20 21:26:06,935 - aiogram.event - INFO - Update id=846822660 is handled. Duration 156 ms by bot id=7856214995
+2025-06-20 21:26:09,898 - aiogram.event - INFO - Update id=846822661 is handled. Duration 406 ms by bot id=7856214995
+2025-06-20 21:26:11,201 - aiogram.event - INFO - Update id=846822662 is handled. Duration 186 ms by bot id=7856214995
+2025-06-20 21:26:13,993 - aiogram.event - INFO - Update id=846822663 is handled. Duration 313 ms by bot id=7856214995
+2025-06-20 21:26:15,518 - aiogram.event - INFO - Update id=846822664 is handled. Duration 218 ms by bot id=7856214995
+2025-06-20 21:26:18,367 - aiogram.event - INFO - Update id=846822665 is handled. Duration 311 ms by bot id=7856214995
+2025-06-20 21:26:20,104 - aiogram.event - INFO - Update id=846822666 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:26:23,211 - aiogram.event - INFO - Update id=846822667 is handled. Duration 296 ms by bot id=7856214995
+2025-06-20 21:26:24,593 - aiogram.event - INFO - Update id=846822668 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:26:28,447 - aiogram.event - INFO - Update id=846822669 is handled. Duration 311 ms by bot id=7856214995
+2025-06-20 21:31:09,539 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:31:09,819 - __main__ - INFO - Бот остановлен
+2025-06-20 21:31:09,819 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:39:08,109 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:39:08,109 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:39:08,109 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:39:08,339 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:39:15,329 - aiogram.event - INFO - Update id=846822670 is handled. Duration 280 ms by bot id=7856214995
+2025-06-20 21:39:17,661 - aiogram.event - INFO - Update id=846822671 is handled. Duration 139 ms by bot id=7856214995
+2025-06-20 21:39:20,408 - aiogram.event - INFO - Update id=846822672 is handled. Duration 139 ms by bot id=7856214995
+2025-06-20 21:39:22,290 - aiogram.event - INFO - Update id=846822673 is handled. Duration 156 ms by bot id=7856214995
+2025-06-20 21:39:23,305 - aiogram.event - INFO - Update id=846822674 is handled. Duration 235 ms by bot id=7856214995
+2025-06-20 21:39:26,494 - aiogram.event - INFO - Update id=846822675 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:39:27,460 - aiogram.event - INFO - Update id=846822676 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:39:28,431 - aiogram.event - INFO - Update id=846822677 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:39:29,409 - aiogram.event - INFO - Update id=846822678 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 21:39:32,637 - aiogram.event - INFO - Update id=846822679 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:39:38,223 - aiogram.event - INFO - Update id=846822680 is handled. Duration 421 ms by bot id=7856214995
+2025-06-20 21:39:39,127 - aiogram.event - INFO - Update id=846822681 is handled. Duration 94 ms by bot id=7856214995
+2025-06-20 21:39:40,044 - aiogram.event - INFO - Update id=846822682 is handled. Duration 156 ms by bot id=7856214995
+2025-06-20 21:39:42,238 - aiogram.event - INFO - Update id=846822683 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 21:39:46,056 - aiogram.event - INFO - Update id=846822684 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:39:48,224 - aiogram.event - INFO - Update id=846822685 is handled. Duration 313 ms by bot id=7856214995
+2025-06-20 21:39:49,157 - aiogram.event - INFO - Update id=846822686 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:39:50,172 - aiogram.event - INFO - Update id=846822687 is handled. Duration 188 ms by bot id=7856214995
+2025-06-20 21:39:51,279 - aiogram.event - INFO - Update id=846822688 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 21:39:53,516 - aiogram.event - INFO - Update id=846822689 is handled. Duration 235 ms by bot id=7856214995
+2025-06-20 21:39:56,218 - aiogram.event - INFO - Update id=846822690 is handled. Duration 390 ms by bot id=7856214995
+2025-06-20 21:39:57,198 - aiogram.event - INFO - Update id=846822691 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 21:39:58,147 - aiogram.event - INFO - Update id=846822692 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 21:39:59,058 - aiogram.event - INFO - Update id=846822693 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:40:03,250 - aiogram.event - INFO - Update id=846822694 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:40:05,320 - aiogram.event - INFO - Update id=846822695 is handled. Duration 311 ms by bot id=7856214995
+2025-06-20 21:40:06,407 - aiogram.event - INFO - Update id=846822696 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 21:40:07,652 - aiogram.event - INFO - Update id=846822697 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:40:08,601 - aiogram.event - INFO - Update id=846822698 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:40:11,192 - aiogram.event - INFO - Update id=846822699 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:40:13,351 - aiogram.event - INFO - Update id=846822700 is handled. Duration 359 ms by bot id=7856214995
+2025-06-20 21:40:14,643 - aiogram.event - INFO - Update id=846822701 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:40:15,581 - aiogram.event - INFO - Update id=846822702 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:40:19,434 - aiogram.event - INFO - Update id=846822703 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:41:19,866 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:41:20,131 - __main__ - INFO - Бот остановлен
+2025-06-20 21:41:20,132 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:41:22,633 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:41:22,633 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:41:22,633 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:41:22,878 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:41:34,887 - aiogram.event - INFO - Update id=846822704 is handled. Duration 281 ms by bot id=7856214995
+2025-06-20 21:41:36,880 - aiogram.event - INFO - Update id=846822705 is handled. Duration 188 ms by bot id=7856214995
+2025-06-20 21:41:38,077 - aiogram.event - INFO - Update id=846822706 is handled. Duration 218 ms by bot id=7856214995
+2025-06-20 21:41:45,000 - aiogram.event - INFO - Update id=846822707 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:41:51,099 - aiogram.event - INFO - Update id=846822708 is handled. Duration 531 ms by bot id=7856214995
+2025-06-20 21:42:16,806 - aiogram.event - INFO - Update id=846822709 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:42:18,482 - aiogram.event - INFO - Update id=846822710 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:42:24,073 - aiogram.event - INFO - Update id=846822711 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:42:25,374 - aiogram.event - INFO - Update id=846822712 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:42:26,603 - aiogram.event - INFO - Update id=846822713 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:42:28,703 - aiogram.event - INFO - Update id=846822714 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:42:29,691 - aiogram.event - INFO - Update id=846822715 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:42:30,703 - aiogram.event - INFO - Update id=846822716 is handled. Duration 202 ms by bot id=7856214995
+2025-06-20 21:42:31,645 - aiogram.event - INFO - Update id=846822717 is handled. Duration 78 ms by bot id=7856214995
+2025-06-20 21:42:37,704 - aiogram.event - INFO - Update id=846822718 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:42:59,298 - aiogram.event - INFO - Update id=846822719 is handled. Duration 391 ms by bot id=7856214995
+2025-06-20 21:43:05,432 - aiogram.event - INFO - Update id=846822720 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:43:07,025 - aiogram.event - INFO - Update id=846822721 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 21:43:08,246 - aiogram.event - INFO - Update id=846822722 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 21:43:09,580 - aiogram.event - INFO - Update id=846822723 is handled. Duration 218 ms by bot id=7856214995
+2025-06-20 21:43:10,238 - aiogram.event - INFO - Update id=846822724 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:43:11,698 - aiogram.event - INFO - Update id=846822725 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:43:21,632 - aiogram.event - INFO - Update id=846822726 is handled. Duration 219 ms by bot id=7856214995
+2025-06-20 21:44:06,867 - aiogram.event - INFO - Update id=846822727 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:44:10,511 - aiogram.event - INFO - Update id=846822728 is handled. Duration 375 ms by bot id=7856214995
+2025-06-20 21:44:11,706 - aiogram.event - INFO - Update id=846822729 is handled. Duration 186 ms by bot id=7856214995
+2025-06-20 21:44:15,846 - aiogram.event - INFO - Update id=846822730 is handled. Duration 593 ms by bot id=7856214995
+2025-06-20 21:44:17,111 - aiogram.event - INFO - Update id=846822731 is handled. Duration 172 ms by bot id=7856214995
+2025-06-20 21:44:20,721 - aiogram.event - INFO - Update id=846822732 is handled. Duration 375 ms by bot id=7856214995
+2025-06-20 21:44:22,105 - aiogram.event - INFO - Update id=846822733 is handled. Duration 203 ms by bot id=7856214995
+2025-06-20 21:44:26,029 - aiogram.event - INFO - Update id=846822734 is handled. Duration 483 ms by bot id=7856214995
+2025-06-20 21:44:27,293 - aiogram.event - INFO - Update id=846822735 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:44:30,892 - aiogram.event - INFO - Update id=846822736 is handled. Duration 360 ms by bot id=7856214995
+2025-06-20 21:44:31,991 - aiogram.event - INFO - Update id=846822737 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:44:37,355 - aiogram.event - INFO - Update id=846822738 is handled. Duration 453 ms by bot id=7856214995
+2025-06-20 21:44:39,050 - aiogram.event - INFO - Update id=846822739 is handled. Duration 94 ms by bot id=7856214995
+2025-06-20 21:44:42,414 - aiogram.event - INFO - Update id=846822740 is handled. Duration 344 ms by bot id=7856214995
+2025-06-20 21:44:44,388 - aiogram.event - INFO - Update id=846822741 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 21:45:19,783 - aiogram.event - INFO - Update id=846822742 is handled. Duration 202 ms by bot id=7856214995
+2025-06-20 21:45:25,912 - aiogram.event - INFO - Update id=846822743 is handled. Duration 171 ms by bot id=7856214995
+2025-06-20 21:46:08,577 - aiogram.event - INFO - Update id=846822744 is handled. Duration 561 ms by bot id=7856214995
+2025-06-20 21:47:17,570 - aiogram.event - INFO - Update id=846822745 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:47:20,116 - aiogram.event - INFO - Update id=846822746 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:49:42,966 - aiogram.event - INFO - Update id=846822747 is handled. Duration 140 ms by bot id=7856214995
+2025-06-20 21:49:46,354 - aiogram.event - INFO - Update id=846822748 is handled. Duration 156 ms by bot id=7856214995
+2025-06-20 21:49:49,774 - aiogram.event - INFO - Update id=846822749 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 21:49:51,645 - aiogram.event - INFO - Update id=846822750 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 21:49:57,660 - aiogram.event - INFO - Update id=846822751 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 21:50:05,119 - aiogram.event - INFO - Update id=846822752 is handled. Duration 375 ms by bot id=7856214995
+2025-06-20 21:50:25,580 - aiogram.event - INFO - Update id=846822753 is handled. Duration 422 ms by bot id=7856214995
+2025-06-20 21:50:33,620 - aiogram.event - INFO - Update id=846822754 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:50:39,186 - aiogram.event - INFO - Update id=846822755 is handled. Duration 156 ms by bot id=7856214995
+2025-06-20 21:50:44,667 - aiogram.event - INFO - Update id=846822756 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 21:50:48,072 - aiogram.event - INFO - Update id=846822757 is handled. Duration 172 ms by bot id=7856214995
+2025-06-20 21:50:53,941 - aiogram.event - INFO - Update id=846822758 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 21:51:14,981 - aiogram.event - INFO - Update id=846822759 is handled. Duration 4500 ms by bot id=7856214995
+2025-06-20 21:51:39,393 - aiogram.event - INFO - Update id=846822760 is handled. Duration 156 ms by bot id=7856214995
+2025-06-20 21:51:41,758 - aiogram.event - INFO - Update id=846822761 is handled. Duration 203 ms by bot id=7856214995
+2025-06-20 21:51:53,082 - aiogram.event - INFO - Update id=846822762 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 21:51:58,677 - aiogram.event - INFO - Update id=846822763 is handled. Duration 344 ms by bot id=7856214995
+2025-06-20 21:52:05,260 - aiogram.event - INFO - Update id=846822764 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 21:52:12,516 - aiogram.event - INFO - Update id=846822765 is handled. Duration 531 ms by bot id=7856214995
+2025-06-20 21:56:17,642 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 21:56:17,914 - __main__ - INFO - Бот остановлен
+2025-06-20 21:56:17,914 - aiogram.event - INFO - Update id=846822766 is not handled. Duration 1514 ms by bot id=7856214995
+2025-06-20 21:56:17,914 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:57:01,789 - __main__ - INFO - База данных инициализирована
+2025-06-20 21:57:01,790 - __main__ - INFO - Бот успешно запущен
+2025-06-20 21:57:01,790 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 21:57:02,028 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 21:57:02,365 - aiogram.event - INFO - Update id=846822767 is handled. Duration 264 ms by bot id=7856214995
+2025-06-20 21:57:02,381 - aiogram.event - INFO - Update id=846822768 is handled. Duration 265 ms by bot id=7856214995
+2025-06-20 22:00:46,422 - aiogram.event - INFO - Update id=846822769 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 22:00:47,345 - aiogram.event - INFO - Update id=846822770 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 22:00:48,185 - aiogram.event - INFO - Update id=846822771 is handled. Duration 92 ms by bot id=7856214995
+2025-06-20 22:00:52,487 - aiogram.event - INFO - Update id=846822772 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 22:00:57,619 - aiogram.event - INFO - Update id=846822773 is handled. Duration 390 ms by bot id=7856214995
+2025-06-20 22:01:57,025 - aiogram.event - INFO - Update id=846822774 is handled. Duration 155 ms by bot id=7856214995
+2025-06-20 22:01:58,137 - aiogram.event - INFO - Update id=846822775 is handled. Duration 250 ms by bot id=7856214995
+2025-06-20 22:01:59,078 - aiogram.event - INFO - Update id=846822776 is handled. Duration 94 ms by bot id=7856214995
+2025-06-20 22:02:02,068 - aiogram.event - INFO - Update id=846822777 is handled. Duration 108 ms by bot id=7856214995
+2025-06-20 22:02:09,696 - aiogram.event - INFO - Update id=846822778 is handled. Duration 312 ms by bot id=7856214995
+2025-06-20 22:03:22,132 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 22:03:22,407 - __main__ - INFO - Бот остановлен
+2025-06-20 22:03:22,408 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 22:03:25,027 - __main__ - INFO - База данных инициализирована
+2025-06-20 22:03:25,028 - __main__ - INFO - Бот успешно запущен
+2025-06-20 22:03:25,028 - aiogram.dispatcher - INFO - Start polling
+2025-06-20 22:03:25,274 - aiogram.dispatcher - INFO - Run polling for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
+2025-06-20 22:03:25,819 - aiogram.event - INFO - Update id=846822779 is handled. Duration 327 ms by bot id=7856214995
+2025-06-20 22:03:26,609 - aiogram.event - INFO - Update id=846822780 is handled. Duration 93 ms by bot id=7856214995
+2025-06-20 22:03:27,543 - aiogram.event - INFO - Update id=846822781 is handled. Duration 125 ms by bot id=7856214995
+2025-06-20 22:03:29,675 - aiogram.event - INFO - Update id=846822782 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 22:03:43,557 - aiogram.event - INFO - Update id=846822783 is handled. Duration 358 ms by bot id=7856214995
+2025-06-20 22:04:41,952 - aiogram.event - INFO - Update id=846822784 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 22:04:43,373 - aiogram.event - INFO - Update id=846822785 is handled. Duration 188 ms by bot id=7856214995
+2025-06-20 22:04:45,033 - aiogram.event - INFO - Update id=846822786 is handled. Duration 264 ms by bot id=7856214995
+2025-06-20 22:04:46,300 - aiogram.event - INFO - Update id=846822787 is handled. Duration 218 ms by bot id=7856214995
+2025-06-20 22:04:48,969 - aiogram.event - INFO - Update id=846822788 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 22:04:52,782 - aiogram.event - INFO - Update id=846822789 is handled. Duration 327 ms by bot id=7856214995
+2025-06-20 22:04:57,881 - aiogram.event - INFO - Update id=846822790 is handled. Duration 109 ms by bot id=7856214995
+2025-06-20 22:05:01,107 - aiogram.event - INFO - Update id=846822791 is handled. Duration 343 ms by bot id=7856214995
+2025-06-20 22:05:02,439 - aiogram.event - INFO - Update id=846822792 is handled. Duration 92 ms by bot id=7856214995
+2025-06-20 22:05:06,274 - aiogram.event - INFO - Update id=846822793 is handled. Duration 359 ms by bot id=7856214995
+2025-06-20 22:06:31,153 - aiogram.event - INFO - Update id=846822794 is handled. Duration 1702 ms by bot id=7856214995
+2025-06-20 22:06:56,387 - aiogram.event - INFO - Update id=846822795 is handled. Duration 110 ms by bot id=7856214995
+2025-06-20 22:08:12,500 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 22:08:12,774 - __main__ - INFO - Бот остановлен
+2025-06-20 22:08:12,775 - aiogram.dispatcher - INFO - Polling stopped for bot @Nails_Evgeniya_bot id=7856214995 - 'Nails_Evgeniya'
