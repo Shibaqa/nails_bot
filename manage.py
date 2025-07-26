@@ -696,31 +696,49 @@ async def send_reminders():
 
 
 async def on_startup():
-    """Действия при запуске бота"""
-    try:
-        await init_db()
-        asyncio.create_task(send_reminders())
-        logger.info("Бот успешно запущен")
-    except Exception as e:
-        logger.error(f"Ошибка при запуске: {e}")
-        raise
+    print("✅ Бот успешно запущен")
+    await bot.delete_webhook(drop_pending_updates=True)
 
 
 async def on_shutdown():
-    """Действия при выключении бота"""
-    await Database.close()
-    await bot.session.close()
-    logger.info("Бот остановлен")
+    print("⏳ Завершение работы...")
+
+    # Закрываем хранилище (если используется)
+    if hasattr(dp.storage, 'close'):
+        await dp.storage.close()
+
+    # Правильное закрытие сессии
+    session = await bot.get_session()
+    if isinstance(session, AiohttpSession):
+        await session.close()
+
+    print("❌ Бот остановлен")
 
 
 async def main():
-    """Основная функция"""
-    await on_startup()
     try:
-        await dp.start_polling(bot)
+        dp.startup.register(on_startup)
+        dp.shutdown.register(on_shutdown)
+
+        print("🔄 Запускаем бота...")
+        await dp.start_polling(bot, allowed_updates=dp.resolve_used_update_types())
+
+    except Exception as ex:
+        print(f"🚨 Ошибка: {type(ex).__name__}: {ex}")
     finally:
-        await on_shutdown()
+        # Дополнительная гарантия закрытия сессии
+        try:
+            session = await bot.get_session()
+            if isinstance(session, AiohttpSession):
+                await session.close()
+        except:
+            pass
 
 
-if __name__ == '__main__':
-    asyncio.run(main())
+if __name__ == "__main__":
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print("\n🛑 Остановлено пользователем (Ctrl+C)")
+    except Exception as e:
+        print(f"💥 Критическая ошибка: {type(e).__name__}: {e}")
