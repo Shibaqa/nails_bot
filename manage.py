@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 import pytz
 import asyncpg
 from aiogram import Bot, Dispatcher, types, F
+from aiogram.client.session.aiohttp import AiohttpSession
 from aiogram.filters import Command
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.fsm.state import State, StatesGroup
